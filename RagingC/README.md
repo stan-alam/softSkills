@@ -63,3 +63,20 @@ the hawsepipe, meaning he hadn’t graduated from one of the country’s seven m
  juracánes—acts of a furious eponymous goddess, which they depicted as a disembodied head adorned with two
  propeller-like wings. She looked remarkably like the hurricane symbol you find on modern maps."
  ```
+**"in 1575, writes Stuart Schwartz in his book, Sea of Storms: A History of Hurricanes in the Greater Caribbean from Columbus to Katrina."**
+
+```text
+"Due to uncertainty, prudent mariners follow the 3-2-1 rule: Three days ahead of a hurricane’s
+forecasted position, stay three hundred miles away; two days ahead, keep out of a two-hundred-mile
+radius of its projected center; one day ahead, stay one hundred miles away from its eye in
+all directions. The rule is based on the fact that hurricane paths are erratic and unpredictable,
+so it’s smart to give the system a wide berth."
+```
+
+```text
+"The NHC is one of the few government offices that obsessively tracks its own mistakes;
+meteorologists use these errors to improve their models and methods. On the NHC website,
+there’s an entire section dedicated to its own errors going back to 1970. Multiple line
+graphs detail two kinds of errors: track errors and intensity errors. What path the storm
+takes depends on the larger forces around it."
+```
