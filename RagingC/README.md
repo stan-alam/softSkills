@@ -56,3 +56,10 @@ the hawsepipe, meaning he hadn’t graduated from one of the country’s seven m
 ```
 
 **"the remaining crew had to pick up the slack. Setting high standards was tough when the cast of characters was constantly changing."**
+
+```text
+"Since arriving in the region in 1492 Columbus had learned about the spiraling storms that came every July through
+ October from the Taíno, the native people of Puerto Rico and surrounding islands. The Taíno called these storms
+ juracánes—acts of a furious eponymous goddess, which they depicted as a disembodied head adorned with two
+ propeller-like wings. She looked remarkably like the hurricane symbol you find on modern maps."
+ ```
