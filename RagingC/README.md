@@ -46,3 +46,13 @@ the hawsepipe, meaning he hadn’t graduated from one of the country’s seven m
 ```
 
 **"Instead, he’d signed on to the merchant marine as general crew when he was eighteen years old and worked his way up."**
+
+**"During his downtime aboard the vessel, he’d studied the ship’s books and manuals and often surprised his fellow officers with the depth of his knowledge."**
+
+**"Sailing as a second mate would have meant more money and more authority on the bridge, but for him, it wasn’t worth the stress."**
+
+```text
+"Jeremie’s understanding of the weather systems, radar, and loading software—things he’d taught himself—proved invaluable. The team earned one of the highest scores the instructor had ever recorded."
+```
+
+**"the remaining crew had to pick up the slack. Setting high standards was tough when the cast of characters was constantly changing."**
