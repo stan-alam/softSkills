@@ -143,3 +143,21 @@ Ellucian
 With college prices in the hundreds of thousands of dollars, more middle-class families are looking for ways to spend less for quality education. hashtag#highered http://ow.ly/lrbI30llRRv
 
 https://www.nytimes.com/2018/04/05/education/learning/community-colleges-middle-class-families.html
+
+**"Bravado. That’s all I can think of. You gotta check that at the gate when you join the ship."**
+
+```text
+"Managing a commercial ship requires serious skills—you’re working with people with a broad range of education
+levels and economic backgrounds. Your officers may be distinguished maritime academy grads
+with families; some of your crew might be rough loners with high school degrees who
+only ship out to dry out."
+
+
+"One, Kimberly Beisner, testified that during one of those rides, she’d written in her workbook under
+“morale” that the crew seemed to simply do their jobs and return to their rooms."
+
+```
+
+**"He was a hothead, got angry on a dime. If anyone was making the crew uncomfortable, it was the captain."**
+
+**"Shipping is brutal, especially at the top of the food chain. Officers get paid according to rank, not experience.**
