@@ -117,3 +117,29 @@ takes depends on the larger forces around it."
 ```text
 "Davidson was a newcomer, a neophyte, a poor substitute for the profoundly experienced men fifteen years his senior who’d protected her, looked out for her, trained her."
 ```
+**"Shultz hung up the receiver and looked out at the ocean. Maybe he should start worrying about his job instead of the weather."**
+
+```text
+"On dawn of October 1, BVS was still showing the hurricane’s eye eighty miles north of its actual location."
+
+"Unfortunately, all of these more nuanced forecasting products were only available to those with internet access. The officers aboard El Faro had no way to browse the web."
+```
+
+**"But now that the girls were in college, expenses were high. He had two BMWs in the driveway, tuition bills, taxes. Mastering container ships paid up to $150,000, if you could get the work."**
+
+
+**"Like many middle-class Americans, Mike couldn’t quite get his head above water."**
+
+https://bigthink.com/videos/why-americas-middle-class-is-disappearing
+
+https://www.linkedin.com/feed/news/the-middle-class-is-shrinking-2265683/
+
+From Linkedin
+
+Ellucian
+Ellucian
+25,441 followers
+1w
+With college prices in the hundreds of thousands of dollars, more middle-class families are looking for ways to spend less for quality education. hashtag#highered http://ow.ly/lrbI30llRRv
+
+https://www.nytimes.com/2018/04/05/education/learning/community-colleges-middle-class-families.html
