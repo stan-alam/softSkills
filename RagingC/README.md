@@ -100,3 +100,20 @@ takes depends on the larger forces around it."
 ```text
 "premier naval architecture school in the country—New York’s Webb Institute, which, to this day, offers free tuition to all students."
 ```
+
+```text
+"“where the ghosts of thirty-six thousand people and twenty-eight shipways offered a young person a place to hone his book learning and get to know practical, real skills.”"
+```
+
+```text
+"The most horrifying accident involving one of these ships occurred in 1994 when the passenger ship Estonia suddenly sank in a terrific storm in the north Baltic Sea, taking nine hundred people with it."
+```
+
+```text
+"Since 1975 the US has maintained the largest trade deficit in the world, nearly four times the total of number two, the UK. Both were once maritime superpowers. China has the greatest trade surplus. It also dominates the global shipping industry."
+```
+## Chapter 09
+
+```text
+"Davidson was a newcomer, a neophyte, a poor substitute for the profoundly experienced men fifteen years his senior who’d protected her, looked out for her, trained her."
+```
