@@ -161,3 +161,44 @@ only ship out to dry out."
 **"He was a hothead, got angry on a dime. If anyone was making the crew uncomfortable, it was the captain."**
 
 **"Shipping is brutal, especially at the top of the food chain. Officers get paid according to rank, not experience.**
+
+```text
+"Damning information became currency aboard TOTE’s ships. On El Faro, rumors up and down the command chain began churning.
+```
+**One AB caught an officer sleeping on watch. Instead of going through official channels to address the problem, he photographed
+his superior and spread the photo around.** The situation was toxic. The quasi-military order necessary to the merchant marine had been breached."
+
+**"In industries in which human error can lead to devastating consequences,
+it’s important to foster good communication that respects the hierarchy while
+allowing room for debate."**
+
+**"Some masters solicit the opinions of their mates and actively encourage their
+officers to think for themselves. They’re the teachers and mentors of the merchant
+marine committed to making their officers better mariners."**
+
+```text
+"He simply wanted to trust that the people he was hired to manage did their jobs
+well, while he took the time to learn about the ship."
+```
+```text
+"Before El Faro hit bad weather, a vigilant mate would have made sure those scuttles were closed tight.
+Water was bound to wash over the deck, so batten down the hatches, and triple-check them."
+```
+
+**"Shultz knew their best defense was challenging the captain’s route."**
+
+**"TOTE was churning through its captains; no one’s job was safe. Axelsson
+had unceremoniously resigned from the company in August after being told that his
+services were “no longer required.”"**
+
+```text
+"But Michael Davidson wanted to prove that he was TOTE’s kind of man. He didn’t back down.
+He dug in. He’d sail that ship right into San Juan on Friday morning, just as planned."
+```
+
+```text
+"through profit-sharing, enjoyed an economic mobility unknown in Europe. A twelve-year-old
+Maine boy could leave the family farm to cook in a ship’s galley and work his way up to
+captain by the age of twenty-five, then retire onshore at age forty wealthy enough
+to run his own fleet."
+```
