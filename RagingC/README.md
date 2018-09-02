@@ -80,3 +80,23 @@ there’s an entire section dedicated to its own errors going back to 1970. Mult
 graphs detail two kinds of errors: track errors and intensity errors. What path the storm
 takes depends on the larger forces around it."
 ```
+```text
+"Nathaniel Bowditch’s The American Practical Navigator—a thick navy blue book found aboard nearly every floating vessel."
+
+"Did he actually need the company’s permission to reroute? His request was carefully worded and thoughtful: “I would like to transit the old Bahama Channel on our return North bound leg to Jacksonville? This route adds approximately 160 nautical miles to the route for a total of 1,261 nautical miles. We need to make around 21 knots for the scheduled 10:05, 10:45 arrival time at Jacksonville pilot station. I have monitored Hurricane Joaquin tracking erratically for the better part of a week. Sometime after 9/30 0200 she began a southwesterly track early this morning. Adjusted our direct normal route in a more southeasterly direction towards"
+
+```
+
+```text
+"That may be true at TOTE, but most ship’s masters I interviewed tell a different story. Although a few can’t believe that a company would pressure anyone to go into a storm, most captains (both foreign and domestic) say that fending off schedulers and managers is simply part of the job. The office worries about customers and profits; captains worry about everything else. Sometimes their interests diverge."
+
+"Regardless, some people, for whatever reason, cave to economic pressures. They assess their risk and decide they’ve got too much to lose if they defy the shipping company. It’s not worth fighting."
+
+"“Project Jennifer” was paid for by the CIA to recover a sunken Soviet submarine lost off the coast of Hawaii. It’s rumored that the sub was sunk when a rogue team of Soviet sailors wrested control and tried to fire a missile at Hawaii, tripping a fail-safe, which caused the missile to explode as it was exiting the torpedo tube."
+```
+
+**"Shipbuilding was demanding work but John was enthralled. He loved the “camaraderie of the people, the fact that your work was appreciated,”"**
+
+```text
+"premier naval architecture school in the country—New York’s Webb Institute, which, to this day, offers free tuition to all students."
+```
