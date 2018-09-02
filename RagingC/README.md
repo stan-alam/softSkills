@@ -202,3 +202,52 @@ Maine boy could leave the family farm to cook in a ship’s galley and work his 
 captain by the age of twenty-five, then retire onshore at age forty wealthy enough
 to run his own fleet."
 ```
+```text
+"In response, America’s great shipping families, merchants, and lawyers pooled their
+resources to battle the king across the pond."
+
+"By 1776, America’s vast fleet of merchant and fishing boats, expertly handled by some of the
+world’s best seamen, as well as their world-class shipbuilding knowledge, was poised to
+play a critical role in the Revolutionary War."
+
+"but it wasn’t until the creation of the Merchant Marine Act of 1920
+(commonly known as the Jones Act) that these laws became fully codified."
+
+"Ultimately, it’s a small price to pay for a standing quasi-navy, ready to deploy at a moment’s notice,
+which made all the difference during World War II when the US government
+```
+**conscripted America’s merchant fleet and seamen to transport troops and munitions to Europe
+under risk of U-boat fire."**
+```text
+"the US Merchant Marine suffered more casualties than any other military division in the war."
+
+"it’s cheaper to register ships in countries that have looser regulations, like Liberia and
+Panama. Plenty of American-owned ships fly foreign flags to get around Jones Act requirements.
+This flight among shippers from America’s registers, called “flags of convenience,” is an
+invitation to anarchy, argues William Langewiesche in the Outlaw Sea. By registering a ship
+elsewhere, shipowners can avoid US taxes, labor laws, domestic construction requirements,
+and anything else that cuts into profitability. And oftentimes ships are registered to
+landlocked nations, which underscores the free-for-all nature of this system and the Wild
+West nature of the sea."
+
+"As of December 2017, the New York Times estimated that at least 1,052 Puerto Ricans had died as a
+direct result of the island’s handicapped efforts to"
+
+"Rich was intense. He drove himself hard and expected everyone around him to do the same.
+He was only interested in logic and facts. “Officers talk to people. Engineers talk to machines,”"
+
+"When something goes wrong, they can usually pinpoint the problem in less than five minutes.
+But knowledge like this takes time to acquire. You have to pay attention, and really care,
+because no one’s going to teach you everything you need to know."
+
+"Jack struggled to understand how they’d found themselves in this mess.
+He decided to blame it on the breakdown of TOTE’s organization. Some really good,"
+
+```
+**"seasoned men like Haley and Villacampa had been fired. Others got away with murder."**
+
+```text
+"They don’t wanna hear anything you got to say, so don’t say anything.”
+The mariners he sailed with were getting dangerously complacent, following orders
+instead of asking questions."
+```
