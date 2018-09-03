@@ -1,17 +1,6 @@
 ## Notes on the Healthy Workspace
 
 ```text
-
-Menu
-Ebook4Expert
-The Healthy Workplace: How to Improve the Well-Being of Your Employees and Boost Your Company’s Bottom Line [ebook free] by Leigh Stringer (epub/mobi)
-ebook4expert
-August 7 2016
-
-    Uncategorized
-
-AddThis Sharing Buttons
-Share to FacebookFacebookShare to TwitterTwitterShare to Google+Google+Share to EmailEmail
 Is your workplace working for you and your employees? Studies show that unhealthy work habits,
 like staring at computer screens and rushing through fast-food lunches are taking their toll
 in the form of increased absenteeism, lost productivity, and higher insurance costs–but it
