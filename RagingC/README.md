@@ -251,3 +251,16 @@ He decided to blame it on the breakdown of TOTE’s organization. Some really go
 The mariners he sailed with were getting dangerously complacent, following orders
 instead of asking questions."
 ```
+## Chapter 14
+
+```text
+"“One captain sailed us right into a storm. All naive and confident.
+Oh sure,” he said sarcastically, “they know what they’re doing.
+As I got thrown to the deck, I could hear the captain screaming."
+
+"“No matter which way it’s hittin’ ya, it’s still 100-knot winds,” Jack agreed.
+The captain may have been unhinged for steering them into this storm, but then
+again, hubris was part of his job. Great captains were made by taking risks and
+living to boast about them."
+
+```
