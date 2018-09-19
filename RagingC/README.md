@@ -264,3 +264,62 @@ again, hubris was part of his job. Great captains were made by taking risks and
 living to boast about them."
 
 ```
+**Sep 8, 2018**
+```text
+"El Faro was small and alone in a vast, black emptiness, shrouded by Joaquin’s miles-thick clouds."
+
+"“If the forecast holds,” Jeremie continued, “at four o’clock in the morning, you’ll be
+twenty-five miles from the center and still going toward it.” Twenty-five miles from
+the hurricane’s eye positioned them square in the eye wall, the deadliest part, where the
+powerful forces driving the system are most concentrated."
+
+"As an officer, Danielle had to stand by her captain’s decisions when talking to her AB."
+
+"She didn’t want to be alone with the captain on the bridge. She’d told her friends
+that she loathed him; her hatred must have intensified now that he was putting them in
+danger. She suspected he was kind of guy"
+
+"who, when rejected, swung from hurt to fury in a heartbeat."
+
+"In the oppressive roar, Captain Davidson planted his feet at the chart table,
+gripped the grab bars, and once again began rationalizing conflicting weather reports.
+BVS and NHC put Joaquin’s eye at different points on his map. Was he north of the storm?
+In it? South of it? Desperate for an explanation, he blamed the discrepancy on the
+failings of modern technology."
+
+"but Davidson dismissed anything that countered his faith in it,"
+
+"El Faro would soon find herself rammed broadside by forty-foot-high waves as
+100-mile-per-hour sustained winds shoved the ship over to starboard. It was the
+worst possible decision."
+
+"Both weather reports—NHC and BVS—were wrong. NHC showed Joaquin’s eye too far
+north by a few dozen miles, and BVS by double that."
+
+"how America’s maritime laws, bent to accommodate corporate interests, can lead to
+tragic consequences."
+
+"TOTE’s upper management also broke federal law."
+
+"Beginning around 2003, executives from the three companies in the Puerto Rican trade—TOTE,
+Horizon, and Crowley—clandestinely met to"
+
+```
+**"the shipping company had fired John Loftus, a captain with nearly four decades
+of experience, for expressing concern about the seaworthiness of Horizon’s ships.
+Loftus won his case and was awarded $1 million. In early 2015, Horizon went belly-up."**
+
+```text
+"The second engineer, Keith Griffin, came on watch at four o’clock in the morning.
+Following protocol, he diverted a portion of the engine’s steam from the propulsion
+system to clear accumulated soot off the boiler tubes. This is called “blowing tubes.”"
+
+"but Davidson dismissed anything that countered his faith in it,"
+```
+**"Instead of retreating, Davidson dug in. He killed the autopilot and called out
+steering commands to his helmsman, Frank Hamm, peering into the vast darkness as
+if staring down a mortal enemy, trying to anticipate its next swing."**
+
+**"Thousands of gallons of water had somehow gotten into the belly of the ship."**
+
+**"but Perry Cohen and Austin Stephanos were never found."**
