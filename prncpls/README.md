@@ -27,3 +27,25 @@ organizations and institutions, Principles also offers a clear, straightforward
 approach to decision-making that Dalio believes anyone can apply, no matter what
 they’re seeking to achieve.
 ```
+
+**princple of the day, 09.20.2018**
+**understand that people are wired differently**
+```text
+Because of the different ways that our brains are wired, we all experience reality in
+different ways and any single way is essentially distorted. This is something that we
+need to acknowledge and deal with. So if you want to know what is true and what to do
+about it, you must understand your own brain.
+
+That insight led me to talk with many psychologists, psychiatrists, neuroscientists,
+personality testers, and other believable people in the field, and it led me to read many
+books. I discovered that though it is obvious to all of us that we are born with different
+strengths and weaknesses in areas such as common sense, creativity, memory, synthesis,
+attention to detail, and so forth, examining these differences objectively makes even most
+scientists uncomfortable. But that doesn’t make it any less necessary, so I pushed forward
+with these explorations over several decades.
+
+As a result, I have learned a lot that helped me and that I believe can help you. In fact,
+I attribute as much of my success to what I’ve learned about the brain as I do to my
+understanding of economics and investing. In this next batch of principles, I will share
+some of the amazing things I’ve learned.
+```
