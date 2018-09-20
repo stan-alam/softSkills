@@ -28,7 +28,7 @@ approach to decision-making that Dalio believes anyone can apply, no matter what
 they’re seeking to achieve.
 ```
 
-**princple of the day, 09.20.2018**
+**principle of the day, 09.20.2018**
 **understand that people are wired differently**
 ```text
 Because of the different ways that our brains are wired, we all experience reality in
