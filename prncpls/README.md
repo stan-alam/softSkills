@@ -49,3 +49,26 @@ I attribute as much of my success to what I’ve learned about the brain as I do
 understanding of economics and investing. In this next batch of principles, I will share
 some of the amazing things I’ve learned.
 ```
+**principle of the day, 09.28.2018**
+**Know that the most constant struggle is between Feeling and Thinking**
+```text
+There are no greater battles than those between our feelings (most importantly controlled by
+our amygdala, which operates subconsciously) and our rational thinking (most importantly
+controlled by our prefrontal cortex, which operates consciously). If you understand how those
+battles occur you will understand why it is so important to reconcile what you get from your
+subconscious with what you get from your conscious mind.
+
+That damned amygdala, which is a little almond-shaped structure that lies deeply embedded in
+the cerebrum, is one of the most powerful parts of your brain. It controls your behavior, even
+though you’re not conscious of it. How does it work? When something upsets us—and that something
+could be a sound, a sight, or just a gut feeling—the amygdala sends notice to our bodies to prepare
+to fight or flee: the heartbeat speeds up, the blood pressure rises, and breathing quickens.
+During an argument, you’ll often notice a physical response similar to how you react to fear
+(for instance, rapid heartbeats and tensing muscles). Recognizing that, your conscious mind
+(which resides in the prefrontal cortex) can refuse to obey its instructions. Typically, these
+amygdala hijackings come on fast and dissipate quickly, except in rare cases, such as when a
+person develops post-traumatic stress disorder from a particularly horrible event or series of
+events. Knowing how these hijackings work, you know that if you allow yourself to react
+spontaneously, you will be prone to overreact. You can also comfort yourself with the knowledge
+that whatever psychological pain you are experiencing will go away before very long.
+```
