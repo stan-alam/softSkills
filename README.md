@@ -1,6 +1,14 @@
 ## This workspace is concerned with professional conduct and the social dynamics within the sphere of Information Technology.
 
 ```text
+Mitchell Baker, head of the Mozilla Foundation, has warned that hiring employees who
+mainly come from Stem – science, technology, engineering and maths – will produce a
+new generation of technologists with the same blindspots as those who are currently
+in charge, a move that will “come back to bite us”
+```
+https://www.theguardian.com/technology/2018/oct/12/tech-humanities-misinformation-philosophy-psychology-graduates-mozilla-head-mitchell-baker
+
+```text
 Linus Torvalds Apology Highlights Why Soft Skills Are Necessary
 Nick Kolakowski
 September 18, 2018
