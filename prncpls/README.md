@@ -81,3 +81,4 @@ that whatever psychological pain you are experiencing will go away before very l
 ```text
 Be wary of relying on anything else. Unfortunately, numerous tests by psychologists show that the majority of people follow the lower-level path most of the time, which leads to inferior decisions without their realizing it. As Carl Jung put it, “Until you make the unconscious conscious, it will direct your life and you will call it fate.” It’s even more important that decision making be evidence-based and logical when groups of people are working together. If it’s not, the process will inevitably be dominated by the most powerful rather than the most insightful participants, which is not only unfair but suboptimal. Successful organizations have cultures in which evidence-based decision making is the norm rather than the exception.
 ```
+https://www.youtube.com/watch?v=NEqHML98RgU
