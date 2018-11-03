@@ -1,6 +1,13 @@
 ## This workspace is concerned with professional conduct and the social dynamics within the sphere of Information Technology.
 
 ```text
+11.03.2018
+According to a recent study, business leaders tend to value soft skills over hard skills due
+to their ability to translate to any career path. Hard skills can be learned and improved,
+but soft skills are the root of one’s character and can be harder to learn.
+```
+
+```text
 Mitchell Baker, head of the Mozilla Foundation, has warned that hiring employees who
 mainly come from Stem – science, technology, engineering and maths – will produce a
 new generation of technologists with the same blindspots as those who are currently
