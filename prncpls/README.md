@@ -73,6 +73,25 @@ spontaneously, you will be prone to overreact. You can also comfort yourself wit
 that whatever psychological pain you are experiencing will go away before very long.
 ```
 
+**principle of the day, 11.21.2018**
+**'WORK PRINCIPLE OF THE DAY GREAT CULTURES BRING PROBLEMS AND DISAGREEMENTS TO THE SURFACE AND SOLVE THEM WELL, AND THEY LOVE IMAGINING AND BUILDING GREAT THINGS THAT HAVEN'T BEEN BUILT BEFORE'**
+
+```text
+Doing that sustains their evolution.
+
+In the case of Bridgewater, we do that by having an idea meritocracy that strives for meaningful
+work and meaningful relationships through radical truth and radical transparency. By meaningful
+work, I mean work that people are excited to get their heads into, and by meaningful
+relationships I mean those in which there is genuine caring for each other (like an
+  extended family). I find that these reinforce each other and that being radically
+  truthful and radically transparent with each other makes both the work and the
+  relationships go better.
+Image may contain: text that says 'WORK PRINCIPLE OF THE DAY GREAT CULTURES BRING
+PROBLEMS AND DISAGREEMENTS TO THE SURFACE AND SOLVE THEM WELL, AND THEY LOVE
+IMAGINING AND BUILDING GREAT THINGS THAT HAVEN'T BEEN BUILT BEFORE'
+```
+
+
 **principle of the day, 10.31.2018**
 **Logic, Reason, And Common Sense** are your best tools for synthesizing reality and understanding what to do about it.
 
