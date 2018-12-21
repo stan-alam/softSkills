@@ -73,6 +73,11 @@ spontaneously, you will be prone to overreact. You can also comfort yourself wit
 that whatever psychological pain you are experiencing will go away before very long.
 ```
 
+**principle of the day, 12.21.2018**
+
+**Treasure honorable people who are capable and will treat you well even when you're not looking**
+They are rare. Such relationships take time to build and can only be built if you treat such people well.
+
 **principle of the day, 11.21.2018**
 **'WORK PRINCIPLE OF THE DAY GREAT CULTURES BRING PROBLEMS AND DISAGREEMENTS TO THE SURFACE AND SOLVE THEM WELL, AND THEY LOVE IMAGINING AND BUILDING GREAT THINGS THAT HAVEN'T BEEN BUILT BEFORE'**
 
