@@ -1,4 +1,5 @@
-## Notes on
+## Notes on Filling Execution Gaps: How Executives and Project Managers Turn
+## Corporate Strategy into Successful Projects
 
 ```text
 
