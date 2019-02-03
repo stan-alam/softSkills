@@ -2,7 +2,7 @@
 
 ```text
 Esperanza Rising joins the Scholastic Gold line, which features award-winning and
-beloved novels. Includes exclusive bonus content!
+beloved novels. 
 
 Esperanza thought she'd always live a privileged life on her family's ranch in Mexico.
 She'd always have fancy dresses, a beautiful home filled with servants, and Mama, Papa, and
