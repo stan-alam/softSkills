@@ -2,7 +2,7 @@
 
 ```text
 Esperanza Rising joins the Scholastic Gold line, which features award-winning and
-beloved novels. 
+beloved novels.
 
 Esperanza thought she'd always live a privileged life on her family's ranch in Mexico.
 She'd always have fancy dresses, a beautiful home filled with servants, and Mama, Papa, and
@@ -12,4 +12,11 @@ struggles brought on by the Great Depression, or lack of acceptance she now face
 sick and a strike for better working conditions threatens to uproot their new life, Esperanza
 must find a way to rise above her difficult circumstances-because Mama's life, and her own,
 depend on it.
+```
+
+```text
+
+"The work is hard in the United States but at least there we have a chance to be more than servants.”"
+― from "Esperanza Rising (Scholastic Gold)"
+
 ```
