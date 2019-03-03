@@ -1,10 +1,22 @@
 ## Articles concerning softskills - take away notes
 
+### Emotional Intelligence the social skills you weren't taught in school
+03.03.2019
+https://getpocket.com/explore/item/emotional-intelligence-the-social-skills-you-weren-t-taught-in-school
+
+ToDo :
+
+  - [ ] Take away notes
+
+```text
+//notes here
+```
 
 
 ### How to be More Productive and Eliminate Time Wasting Activities by Using the “Eisenhower Box”
 03.03.2019
 https://getpocket.com/explore/item/how-to-be-more-productive-and-eliminate-time-wasting-activities-by-using-the-eisenhower-box
+
 ToDo :
 
   - [ ] Take away notes
