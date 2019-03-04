@@ -1,5 +1,15 @@
 ## Notes on the Healthy Workspace
 
+03.03.2018
+
+**How Many Push-Ups Can You Do? It May Be a Good Predictor of Heart Health**
+
+Men who could get through 40 or more push-ups had 96 percent less risk of heart
+problems in the next 10 years than those who quit at 10 or fewer.
+
+https://www.nytimes.com/2019/02/20/well/move/how-many-push-ups-can-you-do-it-may-be-a-good-predictor-of-heart-health.html
+
+
 ```text
 Is your workplace working for you and your employees? Studies show that unhealthy work habits,
 like staring at computer screens and rushing through fast-food lunches are taking their toll
