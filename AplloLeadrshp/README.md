@@ -52,3 +52,21 @@ We see how understanding social and cultural capital can allow leaders to help t
 "Adaptive leaders, like von Braun, avoid the trap of being hyper-focused on one area and excluding others by constantly scanning their environment. They routinely look outside their normal spheres of interest to stay current on larger issues. The result is a level of flexibility and adaptability to change that can be a source of competitive advantage."
 
 **"An environmental scan is a macro assessment"**
+
+"Environmental scans can be very detailed and complex, or more ad hoc. The goal of such scans is to provide leaders with situational awareness—to be more aware of the forces that could impact their organization positively or negatively."
+
+"Leaders should routinely examine multiple environmental factors to broaden their perspectives. These factors include, but are not limited to: Politics and government. This includes regulatory agencies and legislation such as Brexit, net neutrality, and two-for-one regulation repeal."
+
+**"Social and demographic changes. These include events such as the evolving definition of gender, LGBTQI issues, immigration, generational conflicts, and dislocation. Legal. Recent legal issues include our increasingly litigious society, automated legal systems, and changing Chinese treatment of intellectual property, for example. Geophysical. Climate change and conflict are two types of geophysical events that drive economic and population shifts. Technological. Monitoring constant changes in technology is smart, where we’re currently seeing advances in artificial intelligence that affect future employment and the rise in ransomware, for example. Economic. Economic events like the rising price of oil, housing bubbles, and currency fluctuations can also impact future opportunities"**
+
+"Competitors and suppliers. As barriers to entry and exit rise and fall, new competitors emerge. We’ve seen this as Amazon moves into brick-and-mortar through its recent acquisition of Whole Foods. New suppliers can be formed, changing the marketplace dynamic. Customers. Shifting consumer demographics, rising preference for online transactions, and the impact of social media on shopping habits are all issues impacting customers."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"Constantly monitoring and studying what is happening in all eight of these areas provides leaders with a broader, richer understanding of their environment—past, present, and future. But environmental scanning, as this monitoring is called, is not just about identifying trends."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"Your goal isn’t to identify the one most likely path to success, but rather the myriad different possible paths. Then, how best to respond depending on the specific path taken. And as each environmental change forces a course correction toward your goal, new potential paths also emerge."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"Von Braun, for example, stayed current on events occurring in the military, political, economic, legal, and social environment in 1944, rather than focusing intently on the technical projects assigned to him, as many of his colleagues and other technical leaders did. For that reason, he was better informed and could envision potential future options those around him could never have imagined."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
