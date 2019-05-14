@@ -44,3 +44,11 @@ We see how understanding social and cultural capital can allow leaders to help t
 "Given the various forces nearing his team’s location, he believed his choices for takeover were Russia, whose army was quickly closing in; France; England; or the US. For von Braun, the choice was easy—he wanted to work in the US. Von Braun approached this like a business problem. This was similar to an acquisition or merger. What steps could he take to make his team at Peenemünde an attractive acquisition target? He wanted the US to “acquire” his business."
 
 "When NASA was formed in 1958, von Braun was offered a role, but he didn’t want just any job, he wanted to be responsible for developing a huge rocket capable of landing on the moon."
+
+"Von Braun’s greatest strength was his intellect and strategic mind. He was forever imagining different futures for himself, his team, and his country, finding new potential paths to achieve his vision of space exploration. By thinking through the myriad potential next steps in his career, he was always prepared to adapt and pivot as needed. He was unusual in that regard. We humans get tunnel vision easily. We tend to focus almost exclusively on our area of expertise—the lane that we’re swimming in, as it were—to ensure we’re up-to-date and well-informed about industry happenings. Engineers focus on shifts occurring in the engineering field, marketers focus on changes in marketing that are underway"
+
+"Engineers are caught off-guard by social changes. Politicians are surprised by technology advances. Physicians are unaware of marketing opportunities or shifts. We lose sight of the broader picture."
+
+"Adaptive leaders, like von Braun, avoid the trap of being hyper-focused on one area and excluding others by constantly scanning their environment. They routinely look outside their normal spheres of interest to stay current on larger issues. The result is a level of flexibility and adaptability to change that can be a source of competitive advantage."
+
+**"An environmental scan is a macro assessment"**
