@@ -1,0 +1,12 @@
+## Notes on Practical Empathy
+
+Conventional product development focuses on the solution. Empathy is a mindset that focuses on people, helping you to understand their thinking patterns and perspectives. Practical Empathy will show you how to gather and compare these patterns to make better decisions, improve your strategy, and collaborate successfully.
+
+Practical Empathy is a straightforward guide to extracting greater ROI from the squishiness of empathy. --Harry Max, VP Product AllClear ID
+
+Practical Empathy will convince designers and product managers how and why empathy is a key ingredient to both product innovation and organizational success. --Sam Ladner, author of Practical Ethnography
+
+Customer Experience is now a key competitive differentiator; however, to truly stand out, organizations need to have and apply empathy for their customers. This wonderfully insightful book teaches us why empathy is important, how to gain it, and how to apply it within our businesses. --Richard Dalton, AVP Experience Design, USAA
+About the Author
+
+For the past 20 years, Indi Young has been pioneering ways to understand customers and employees in order to support them better. Most organizations have developed awareness and expertise at gathering big data the numbers that track what and how people have done things. These same organizations, however, are inexpert at understanding why. The messy and divergent reasoning and motivations that drive people s decisions are what Indi helps you tune in. She is expert at gathering the thoughts that lie deeper than simple preferences, opinions, and desires. And she is expert at helping you solidify patterns and sort through the wavelengths to focus on particular channels so you can support people in more powerful ways. In 2001 Indi was one of the founders of the user experience agency Adaptive Path, which has provided leadership for the experience and strategy design field. During her career, Indi has worked with clients in many industries, including higher education, and has seamlessly embedded with teams at multi-national organizations as well as with tiny start-ups. Clients are pleased with the efficient way Indi engages and with the tremendous knowledge she imparts to team members. Indi blogs at indiyoung.com, where you can also find links to helpful articles and presentations she has written over the years, and you can follow her on Twitter @indiyoung.
