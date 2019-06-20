@@ -70,3 +70,30 @@ We see how understanding social and cultural capital can allow leaders to help t
 
 "Von Braun, for example, stayed current on events occurring in the military, political, economic, legal, and social environment in 1944, rather than focusing intently on the technical projects assigned to him, as many of his colleagues and other technical leaders did. For that reason, he was better informed and could envision potential future options those around him could never have imagined."
 ― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"Von Braun was capable of adapting because he was constantly looking at his situation and his ecosystem from multiple perspectives. Most leaders get so caught up in their own world, and their own problems, that they fail to take a broader view of their situation. In contrast, von Braun regularly looked outside of his normal spheres of interest. In doing so, he recognized one of many paths he and his team could take. As his environment shifted, his strategies shifted, which sometimes required unconventional action by his team."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"German leaders, on the other hand, who were hyper-focused on the military and political battlefield could only see certain victory. Von Braun was right, they were wrong. Adaptive leaders gather information in order to understand their environment and are constantly"
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"analyzing it in order to assess what to do about it, keeping their ultimate goal in the forefront of their minds. Von Braun’s ultimate goal was making spaceflight possible."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"While adaptive leadership occurs during times of great change, it’s also what makes great progress possible. Adaptive leadership leverages past knowledge and experience and mobilizes teams to foster progress beyond what was previously thought possible. Adaptive leaders make impossible things possible."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"Leadership Experience To help you apply what you’ve learned about adaptive leadership and Wernher von Braun’s work within NASA, consider these questions: What is your guiding vision? Think long term strategically and mid-term operationally. How can you gain different perspectives of your organization’s environment? How can you do more contingency planning—imagining alternate paths to achieving your ends? What allies will you need to be successful? What are you willing to sacrifice and not sacrifice to achieve your goals? Chapter 2 John F. Kennedy—Nurturing a Vision “Keep your eyes on the stars and your feet on the ground.” —Franklin D. Roosevelt I learned a simple definition of leadership from General John Wattendorf, Department Head, Behavioral Sciences and Leadership at West Point Military Academy. “Leadership is influencing others to do what they would not do if left to their own accord.”"
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"What made these speeches so persuasive was not necessarily their oration, but their vision and appeal to the heart as well as the mind. These leaders understood the importance of painting a picture of possibility as a first step toward making their vision a reality. Once visualized, their challenge was bringing that goal to fruition."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"challenged Americans to move past the country’s failure to get a man into space first and to look ahead to the future—a future that could include putting an American on the moon. It would take hardship and hard work, and a massive budget, but if everyone was committed, we could get there in ten years, he promised."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"He knew that the US couldn’t compete head-to-head with the USSR. They were ahead in every way. Kennedy began looking for other options—a way to change the playing field, as it were."
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
+
+"we have examined where we are strong and where we are not, where we may succeed and where we may not. Now it is time to take longer strides-time for a great new American enterprise-time for this nation to take a clearly leading role in space achievement, which in many ways may hold the key to our future on earth.”"
+― from "Apollo Leadership Lessons: Powerful Business Insights for Executives"
