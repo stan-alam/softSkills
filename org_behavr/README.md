@@ -1,0 +1,3 @@
+## notes on Organizational Behavior
+
+Organizational Behavior 6th edition by Colquitt, LePine, and Wesson continues to offer a novel approach using an integrative model and roadmap to illustrate how individual, team, leader, and organizational factors shape employee attitudes, and how those attitudes impact performance and commitment. This model reminds students where they are, where they've been, and where they're going. They include two unique chapters on job performance and organizational commitment. Those topics are critical to managers and students alike, and represent critical outcomes in OB. Each successive chapter then links back to those outcomes, illustrating why OB matters in today's organizations.

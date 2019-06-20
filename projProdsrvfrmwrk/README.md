@@ -1,0 +1,5 @@
+## notes on Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
+
+In the Age of Software, will your business dominate and maintain relevance―or will it become a digital relic?
+As tech giants and startups disrupt every market, those who master large-scale software delivery will define the economic landscape of the 21st century, just as the masters of mass production defined the landscape in the 20th. Unfortunately, business and technology leaders are woefully ill-equipped to solve the problems posed by digital transformation. At the current rate of disruption, half of S&P 500 companies will be replaced in the next ten years. A new approach is needed.
+In Project to Product, Value Stream Network pioneer and technology business leader Dr. Mik Kersten introduces the Flow Framework―a new way of seeing, measuring, and managing software delivery. The Flow Framework will enable your company’s evolution from project-oriented dinosaur to product-centric innovator that thrives in the Age of Software. If you’re driving your organization’s transformation at any level, this is the book for you.
