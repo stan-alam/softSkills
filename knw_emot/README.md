@@ -1,0 +1,9 @@
+## notes on 'Knowing Emotions.'
+
+How do our emotions enable us to know? When Pascal noted that the heart has its own reasons, he implied that our rational faculty alone cannot grasp what is revealed in affective experience. Knowing Emotions seeks to explain comprehensively why human emotions are more than physiological disturbances, but experiences capable of making us aware of significant truths that we could not know by any other means.
+
+Recent philosophical and interdisciplinary research on the emotions has been dominated by a renewal of the debate over how best to characterize the intentionality of emotions as well as their bodily character. Rick Anthony Furtak frames this debate differently, however, arguing that intentionality and feeling are not two discrete parts of affective experience, but conceptually distinguishable aspects of a unified response. His account captures how an emotion's phenomenal or 'felt' quality (what it is like) relates to its intentional content (what it is about).
+
+Knowing Emotions provides a solid introduction to the philosophy of emotion before delving into the debates that surround it. Furtak draws from a wide range of analytic and Continental philosophers, including Sartre, Merleau-Ponty, Kierkegaard, and Nietzsche, among others, and bolsters his analysis with empirical evidence from social psychology, neuroscience, and psychiatry. Perhaps most importantly, Furtak investigates all varieties of affective experience, from brief episodes to moods and emotional dispositions, loves and other longstanding concerns, and overall patterns of temperament and affective outlook. Ultimately, he argues that we must reject the misguided aspiration to purify ourselves of passion and attain an impersonal standpoint.
+
+Knowing Emotions attempts to clarify what kind of truth may be revealed through emotion, and what can be known - not despite, but precisely by virtue of, each person's idiosyncratic perspective.
