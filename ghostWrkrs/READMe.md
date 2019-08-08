@@ -1,4 +1,7 @@
-## notes on GhostWorkers
+﻿## notes on GhostWorkers
+
+**08.08.2019**
+https://insights.dice.com/2019/08/02/ibm-layoffs-ageism-age-discrimination/
 
 From TAP, Technology Academics, Policy
 
@@ -46,3 +49,9 @@ Mary L. Gray is a Fellow at Harvard University’s Berkman Klein Center for Inte
 
 
 Siddharth Suri is a Senior Researcher at Microsoft Research – AI. He is a computational social scientist whose work lies at the intersection of computer science, behavioral economics, crowdsourcing and the gig economy. His early work analyzed the relationship between network topology and human behavior. Since then he became one of the leaders in designing, building, and conducting “virtual lab” experiments using Amazon’s Mechanical Turk. He used this methodology to study cooperation, honesty, group problem solving, and display advertising. Most recently, he has been studying the gig workers who power many modern apps, websites, and AI systems.
+
+
+**08.08.2019**
+
+Hidden beneath the surface of the web, lost in our wrong-headed debates about AI, a new menace is looming. Anthropologist Mary L. Gray and computer scientist Siddharth Suri team up to unveil how services delivered by companies like Amazon, Google, Microsoft, and Uber can only function smoothly thanks to the judgment and experience of a vast, invisible human labor force. These people doing “ghost work” make the internet seem smart. They perform high-tech piecework: flagging X-rated content, proofreading, designing engine parts, and much more. An estimated 8 percent of Americans have worked at least once in this “ghost economy,” and that number is growing. They usually earn less than legal minimums for traditional work, they have no health benefits, and they can be fired at any time for any reason, or none.
+There are no labor laws to govern this kind of work, and these latter-day assembly lines draw in—and all too often overwork and underpay—a surprisingly diverse range of workers: harried young mothers, professionals forced into early retirement, recent grads who can’t get a toehold on the traditional employment ladder, and minorities shut out of the jobs they want. Gray and Suri also show how ghost workers, employers, and society at large can ensure that this new kind of work creates opportunity—rather than misery—for those who do it.
