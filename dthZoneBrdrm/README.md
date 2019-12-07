@@ -1,0 +1,7 @@
+## notes on 'From the Death Zone to the Boardroom What Business Leaders and Decision Makers Can Learn From Extreme Mountaineering'
+
+This book explores experiences and reflections of an extreme sports athlete within the context of business, the latest scholarly works and research on topics that are relevant and timely for today's managers and business leaders, and the daily challenges they face.
+
+Conviction, discipline, managing fear in high stakes situations, leading, working with teams and making decisions in extreme conditions - what will help you in extreme sports can also get you to your goals in business. In From the Death Zone to the Boardroom, speed ski mountaineer Benedikt Boehm tells gripping and inspirational stories about his fears, pain, suffering and facing death during his expeditions to some of the world's highest mountains. Throughout, his co-author and professor of leadership and management, Stefan Gr?schl integrates scholarly ideas and works beyond traditional business boundaries providing you with unusual insights and thought-provoking alternatives for managing your business.
+
+The combination of extreme athlete, company leader, and business school scholar is unique, and ensures the relevance and timeliness of the selected themes, and the pellucidity of the conceptual context to a readership beyond academic boundaries. The result is advice that is both highly personal and empirically tested; a combination that makes for an absorbing read and unparalleled advice for you and your career.
