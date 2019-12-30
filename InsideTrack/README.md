@@ -1,0 +1,10 @@
+## Notes on Inside Track
+
+The role of the business analyst sits at the intersection of business operations, technology, and change management. The job requires a plethora of both soft skills and technical skills, as it must translate the needs of business users into action items for functional applications. On top of this, in-demand technologies have caused tectonic shifts in the way companies operate today, and business analysts must be prepared to adapt.
+The Inside Track to Excelling as a Business Analyst teaches you how to effectively harness skills, techniques, and hacks to grow your career. Author Roni Lubwama expertly walks you through case studies that illustrate how to diffuse the challenges and bottlenecks that business analysts commonly encounter. He provides you with digestible answers to the complexities faced when delivering digital transformation projects to end users. This book is not a self-help guide rife with corporate buzzwords, but a practical handbook with immediate applications from a true insider.
+Equip yourself with vital soft skills, ask the right questions, manage your stakeholders, and bring your projects to a successful close with The Inside Track to Excelling as a Business Analyst. Whether you are new to the role and want a leg up, or a veteran business operator looking to infuse new strategies into your work, this book instills lessons that will assist you throughout your entire career. In this time of rapid change in the digital space, business analysts are asked for more adaptability than ever before, and The Inside Track to Excelling as a Business Analyst is your ideal starting point.
+What You Will Learn
+
+Deploy a non-technical skills toolkit to resolve a wide array of bottlenecks particular to the business analyst practice.
+Defuse the many intractable and common scenarios you will encounter as a business analyst by the application of soft skills.
+Understand the difference between the theory and the actual practice of the business analyst role.
